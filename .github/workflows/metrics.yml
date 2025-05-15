@@ -35,7 +35,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Asia/Kolkata
+          config_timezone: Brisbane/Australia
 
           plugin_achievements_only: >-
             polyglot, stargazer, deployer, member, maintainer, developer,
