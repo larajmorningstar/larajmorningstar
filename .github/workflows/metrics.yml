@@ -58,11 +58,3 @@ jobs:
           # Plugin: Stars
           plugin_stars: yes
           plugin_stars_limit: 1
-
-          # Plugin: Achievements
-          plugin_achievements: yes
-
-          # Plugin: Random Code Snippet 
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript
-          plugin_code_load: 400
