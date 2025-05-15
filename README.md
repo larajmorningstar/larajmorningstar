@@ -9,8 +9,15 @@
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
 </div>
 
-<picture>
+![Metrics](/github-metrics.svg)
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/github-snake.svg" />
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/larajmorningstar/larajmorningstar/output/pacman-contribution-graph.svg">
 </picture>
