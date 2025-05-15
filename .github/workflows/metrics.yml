@@ -51,9 +51,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-          # Plugin: Isocalender
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
 
           # Plugin: Stars
           plugin_stars: yes
